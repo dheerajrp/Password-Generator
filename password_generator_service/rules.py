@@ -17,6 +17,5 @@ PASSWORD_LENGTH_ERROR_MSG = "The given password length didn't satisfy the " \
                             F" {PASSWORD_LENGTH_MAX}"
 PASSWORD_LETTER_ERROR_MSG = "Error in generating letters"
 PASSWORD_CHAR_ERROR_MSG = "Error in generating characters"
-PASSWORD_GENERATION_ERROR_MSG = "Error in generating the password"
 PASSWORD_LENGTH_VALUE_ERROR_MSG = "Enter the valid value for password " \
                                   "length."

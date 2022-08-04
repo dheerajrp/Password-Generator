@@ -10,7 +10,6 @@ from password_generator_service.rules import (LOWER_CASES, UPPER_CASES,
                                               PASSWORD_LENGTH_SUCCESS_MSG,
                                               PASSWORD_CHAR_ERROR_MSG,
                                               PASSWORD_LETTER_ERROR_MSG,
-                                              PASSWORD_GENERATION_ERROR_MSG,
                                               PASSWORD_LENGTH_VALUE_ERROR_MSG,
                                               PASSWORD_LENGTH_THRESHOLD)
 
